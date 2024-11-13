@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "noteapp",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +43,10 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.3"
+=======
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "react-router-dom": "^6.23.1"
+>>>>>>> d812f693ef41d0c6133c3cb1c9d47c4272cf6e75
   }
 }
